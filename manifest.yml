@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: eu-gb.mybluemix.net
+  name: gcm-gb-chat-1
+  host: gcm-gb-chat-1
+  disk_quota: 1024M
